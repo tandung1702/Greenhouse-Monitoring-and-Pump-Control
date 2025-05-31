@@ -9,5 +9,7 @@ Integrate sensor inputs and actuator control to create an automated greenhouse m
 
 # GLCD and Joystick
 Use SPI interface for GLCD communication.
+
 Initialize joystick inputs for navigation.
+
 Design GUI for displaying system status and menu navigation
